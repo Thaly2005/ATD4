@@ -7,7 +7,6 @@
     <title>Positivo, negativo ou neutro</title>
 </head>
 <body>
-<h1>Código para Verificar - Redondo ou Não</h1>
 <form method="post" action="">
         <label for="number">Informe um número:</label>
         <input type="text" name="number" id="number" required>

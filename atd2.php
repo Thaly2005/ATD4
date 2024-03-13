@@ -8,8 +8,6 @@
 </head>
  
 <body>
-    <h1>Código para Verificar - Redondo ou Não</h1>
-     <!--Codigo PHP -->
     <?php
     if (isset($_POST['submit'])) {
         $num = $_POST['number'];
