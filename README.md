@@ -23,4 +23,4 @@
 
   ## Funcionalidades:
     -´Verificar´ - caixa de texto onde pode ser inserido o número.
- <img src="_img/sabermais.png" width="40%">
+ <img src="_img/verificar.png" width="40%">
