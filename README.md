@@ -28,8 +28,9 @@
  ## Tecnológias utilizadas:
 
 As tecnólogias utilizadas para a criação foram..
-PHP
+
+              PHP
 <img src="_img/php.png" width="30%">
 
-VISUAL STUDIO CODE
+       VISUAL STUDIO CODE
 <img src="_img/vscode.jpg" width="30%">
