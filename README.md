@@ -11,6 +11,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 
 [autores](#autores)  
+
 #ATDIII - Verificando números
 
 ## Descrição:
@@ -34,3 +35,11 @@ As tecnólogias utilizadas para a criação foram..
 
        VISUAL STUDIO CODE
 <img src="_img/vscode.jpg" width="30%">
+
+## Fontes consultadas:
+
+[Diogo Maeiano](https://diegomariano.com/fundamentos-do-php/) - Funcionalidades do PHP
+
+## Autores:
+
+    Thalyta das Neves Ferreira 3A 
