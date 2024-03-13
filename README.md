@@ -24,3 +24,12 @@
   ## Funcionalidades:
   - `Verificar`: caixa de texto onde pode ser inserido o número.
  <img src="_img/verificar.png" width="40%">
+
+ ## Tecnológias utilizadas:
+
+As tecnólogias utilizadas para a criação foram..
+PHP
+<img src="_img/php.png" width="30%">
+
+VISUAL STUDIO CODE
+<img src="_img/vscode.jpg" width="30%">
