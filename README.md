@@ -22,4 +22,5 @@
   "verificar". O segundo código é extremamente similar, só tendo a diferença na verificação, podendo receber três respostas diferentes; positivo, negativo e neutro.
 
   ## Funcionalidades:
-    -Verificar
+    -´Verificar´ - caixa de texto onde pode ser inserido o número.
+ <img src="_img/sabermais.png" width="40%">
